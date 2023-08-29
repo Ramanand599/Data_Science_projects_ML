@@ -7,3 +7,7 @@
 blood pressure, and more
     - Technologies Used: The notebooks uses Random Forest Classifier and Decision Tree cLassifier
     - Results: The Random Forest Classifier performed well with an accuracy of 89%
+3.   [Salary Prediction]
+    - Description: The main objective of the Salary Prediction project is analyze the employee's demographics such as  age, experience job title, country and race to predicts the salary.
+    - Technologies Used: The notebooks uses Descision Tree Regressor and Random Forest Regressor
+    - Results: The Random Forest Regressor performed best with 94.6% accuracy
