@@ -14,4 +14,4 @@ blood pressure, and more
 4.[Room Occupancy Detection]
     - Description: The project predicts the room occupancy by analyzing the sensor data such as temperature, light and co2 level.
     - Technologies Used: The notebooks uses Random Forest Classifier
-    - Results: The Random Forest Classifier performed well with an accuracy of 98%
+    - Results: The Random Forest Classifier performed well with an accuracy of 98% 
